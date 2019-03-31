@@ -10,6 +10,16 @@ Fun game so loosely inspired by another game that it's totally cool!
   <img src="https://github.com/ericdeansanchez/ants/blob/master/ants_project.gif">
 </div>
 
+
+```json
+{
+  "author" : "ericdeansanchez@berkeley.edu",
+  "language" : "python",
+  "course" : "cs61a",
+  "notes" : "Emphasis on OOP (though the course emphasis was recursive + functional" 
+}
+```
+
 ## NBody
 
 #### Description:
@@ -18,6 +28,16 @@ Simulates nbodies in our solar system (in two dimensions).
 <div align="center">
   <img src="https://github.com/ericdeansanchez/nbody/blob/master/nbody_simulation.gif">
 </div>
+
+
+```json
+{
+  "author" : "ericdeansanchez@berkeley.edu",
+  "language" : "java",
+  "course" : "cs61b",
+  "notes" : "Fun physics refresher!" 
+}
+```
 
 ## Percolation
 
@@ -32,6 +52,18 @@ Well, it tells you whether or not a system percolates of course! It also is robu
 <div align="center">
   <img src="https://github.com/ericdeansanchez/percolation/blob/master/gif/percolation.gif">
 </div>
+
+
+```json
+{
+  "author" : "ericdeansanchez@berkeley.edu",
+  "language" : "java",
+  "course" : "cs61b",
+  "notes" : "if sites are independently set to be open with probability p 
+             (and therefore blocked with probability 1 − p), what is the 
+             probability that the system percolates?" 
+}
+```
 
 ## Maps
 
@@ -48,3 +80,12 @@ I created a visualization of restaurant ratings using machine learning and the Y
 <div>
   <img src="https://github.com/ericdeansanchez/maps/blob/master/gif/maps.gif">
 </div>
+
+```json
+{
+  "author" : "ericdeansanchez@berkeley.edu",
+  "language" : "python",
+  "course" : "cs61a",
+  "notes" : "k-means is easier to implement than one might think!" 
+}
+```
