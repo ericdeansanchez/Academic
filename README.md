@@ -4,12 +4,6 @@
 ## Ants
 
 #### Description:
-Fun game so loosely inspired by another game that it's totally cool!
-
-<div align="center">
-  <img src="https://github.com/ericdeansanchez/ants/blob/master/ants_project.gif">
-</div>
-
 
 ```json
 {
@@ -20,14 +14,15 @@ Fun game so loosely inspired by another game that it's totally cool!
 }
 ```
 
+Fun game so loosely inspired by another game that it's totally cool!
+
+<div align="center">
+  <img src="https://github.com/ericdeansanchez/ants/blob/master/ants_project.gif">
+</div>
+
 ## NBody
 
 #### Description:
-Simulates nbodies in our solar system (in two dimensions).
-
-<div align="center">
-  <img src="https://github.com/ericdeansanchez/nbody/blob/master/nbody_simulation.gif">
-</div>
 
 
 ```json
@@ -39,20 +34,16 @@ Simulates nbodies in our solar system (in two dimensions).
 }
 ```
 
+
+Simulates nbodies in our solar system (in two dimensions).
+
+<div align="center">
+  <img src="https://github.com/ericdeansanchez/nbody/blob/master/nbody_simulation.gif">
+</div>
+
 ## Percolation
 
 #### Description:
-A program to estimate the value of the percolation threshold via Monte Carlo simulation. I am the sole author of Percolation.java and of PercolationStats.java.
-
-###### What does it do?
-Well, it tells you whether or not a system percolates of course! It also is robust against/preventing backwash!
-
->Given a porous landscape with water on the surface (or oil below), under what conditions will the water be able to drain through to the bottom or the oil to gush through to the surface)?
-
-<div align="center">
-  <img src="https://github.com/ericdeansanchez/percolation/blob/master/gif/percolation.gif">
-</div>
-
 
 ```json
 {
@@ -65,9 +56,30 @@ Well, it tells you whether or not a system percolates of course! It also is robu
 }
 ```
 
+A program to estimate the value of the percolation threshold via Monte Carlo simulation. I am the sole author of Percolation.java and of PercolationStats.java.
+
+###### What does it do?
+Well, it tells you whether or not a system percolates of course! It also is robust against/preventing backwash!
+
+>Given a porous landscape with water on the surface (or oil below), under what conditions will the water be able to drain through to the bottom or the oil to gush through to the surface)?
+
+<div align="center">
+  <img src="https://github.com/ericdeansanchez/percolation/blob/master/gif/percolation.gif">
+</div>
+
+
 ## Maps
 
 #### Description:
+
+```json
+{
+  "author" : "ericdeansanchez@berkeley.edu",
+  "language" : "python",
+  "course" : "cs61a",
+  "notes" : "k-means is easier to implement than one might think!" 
+}
+```
 
 This was a pretty fun project. I have labeled the pieces of code in which I am the sole author with @ezds. [Here](https://inst.eecs.berkeley.edu/~cs61a/fa18/proj/maps/) is the link to the spec.
 
@@ -80,12 +92,3 @@ I created a visualization of restaurant ratings using machine learning and the Y
 <div>
   <img src="https://github.com/ericdeansanchez/maps/blob/master/gif/maps.gif">
 </div>
-
-```json
-{
-  "author" : "ericdeansanchez@berkeley.edu",
-  "language" : "python",
-  "course" : "cs61a",
-  "notes" : "k-means is easier to implement than one might think!" 
-}
-```
