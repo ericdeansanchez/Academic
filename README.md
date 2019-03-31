@@ -1,27 +1,27 @@
 # academic
 ## A few of my favorite academic projects
 
-### Ants
+## Ants
 
-##### Description:
+#### Description:
 Fun game so loosely inspired by another game that it's totally cool!
 
 <div align="center">
   <img src="https://github.com/ericdeansanchez/ants/blob/master/ants_project.gif">
 </div>
 
-### NBody
+## NBody
 
-##### Description:
+#### Description:
 Simulates nbodies in our solar system (in two dimensions).
 
 <div align="center">
   <img src="https://github.com/ericdeansanchez/nbody/blob/master/nbody_simulation.gif">
 </div>
 
-### Percolation
+## Percolation
 
-### Description:
+#### Description:
 A program to estimate the value of the percolation threshold via Monte Carlo simulation. I am the sole author of Percolation.java and of PercolationStats.java.
 
 ###### What does it do?
@@ -33,9 +33,9 @@ Well, it tells you whether or not a system percolates of course! It also is robu
   <img src="https://github.com/ericdeansanchez/percolation/blob/master/gif/percolation.gif">
 </div>
 
-### Maps
+## Maps
 
-### Description:
+#### Description:
 
 This was a pretty fun project. I have labeled the pieces of code in which I am the sole author with @ezds. [Here](https://inst.eecs.berkeley.edu/~cs61a/fa18/proj/maps/) is the link to the spec.
 
