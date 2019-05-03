@@ -1,4 +1,4 @@
-# academic
+# Academic
 ## A few of my favorite academic projects
 
 ## Ants
