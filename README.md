@@ -38,7 +38,7 @@ Fun game so loosely inspired by another game that it's totally cool!
 Simulates nbodies in our solar system (in two dimensions).
 
 <div align="center">
-  <img src="https://github.com/ericdeansanchez/nbody/blob/master/nbody_simulation.gif">
+  <img src="gifs/nbody_simulation.gif">
 </div>
 
 ## Percolation
@@ -64,7 +64,7 @@ Well, it tells you whether or not a system percolates of course! It also is robu
 >Given a porous landscape with water on the surface (or oil below), under what conditions will the water be able to drain through to the bottom or the oil to gush through to the surface)?
 
 <div align="center">
-  <img src="https://github.com/ericdeansanchez/percolation/blob/master/gif/percolation.gif">
+  <img src="gifs/percolation.gif">
 </div>
 
 
@@ -90,5 +90,5 @@ I created a visualization of restaurant ratings using machine learning and the Y
 >In mathematics, a Voronoi diagram is a partitioning of a plane into regions based on distance to points in a specific subset of the plane. That set of points (called seeds, sites, or generators) is specified beforehand, and for each seed there is a corresponding region consisting of all points closer to that seed than to any other. These regions are called Voronoi cells. The Voronoi diagram of a set of points is dual to its Delaunay triangulation. - wikipedia
 
 <div>
-  <img src="https://github.com/ericdeansanchez/maps/blob/master/gif/maps.gif">
+  <img src="gifs/maps.gif">
 </div>
