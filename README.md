@@ -17,7 +17,7 @@
 Fun game so loosely inspired by another game that it's totally cool!
 
 <div align="center">
-  <img src="https://github.com/ericdeansanchez/ants/blob/master/ants_project.gif">
+  <img src="gifs/ants_proj.gif">
 </div>
 
 ## NBody
